@@ -16,9 +16,11 @@ These are the building blocks of any real-world application.
 - `3_Update.js` → Editing items
 - `4_Delete.js` → Removing items
 - `5_AllCRUD.js` → All 4 operations combined
+
   
  File Descriptions
-1️1_Create.js — CREATE Operation
+
+1_Create.js — CREATE Operation
 
 Lets the user type a student name in a TextInput
 On pressing "Add Student", the name is added to the list using useState
