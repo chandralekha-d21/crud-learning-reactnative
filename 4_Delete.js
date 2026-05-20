@@ -1,8 +1,4 @@
-// ============================================
 // D - DELETE OPERATION
-// Removing data from the list
-// ============================================
-
 import React, { useState } from 'react';
 import { View, Text, TouchableOpacity, FlatList, Alert, StyleSheet } from 'react-native';
 
