@@ -1,8 +1,4 @@
-// ============================================
-// C - CREATE OPERATION
-// Adding new data to our list
-// ============================================
-
+// C - CREATE OPERATIOn
 import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, StyleSheet } from 'react-native';
 
@@ -22,7 +18,7 @@ export default function CreateExample() {
     };
 
     setStudents([...students, newStudent]); // add to existing list
-    setName(''); // clear the input box
+    setName(''); // clear input box
   };
 
   return (
