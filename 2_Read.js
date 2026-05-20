@@ -1,8 +1,4 @@
-// ============================================
 // R - READ OPERATION
-// Displaying / showing data on screen
-// ============================================
-
 import React, { useState } from 'react';
 import { View, Text, FlatList, StyleSheet } from 'react-native';
 
