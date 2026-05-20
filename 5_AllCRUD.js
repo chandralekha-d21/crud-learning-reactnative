@@ -1,9 +1,4 @@
-// ============================================
-// ALL CRUD OPERATIONS COMBINED
-// A simple Student Manager for LMS
-// Create + Read + Update + Delete together
-// ============================================
-
+//CRUD OPERATIONS
 import React, { useState } from 'react';
 import {
   View, Text, TextInput, TouchableOpacity,
